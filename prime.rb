@@ -1,4 +1,7 @@
 
 def prime?(n)
   i = n-1
- while n%
+ while i >= 2
+  if n%i == 0 
+    return false
+  
