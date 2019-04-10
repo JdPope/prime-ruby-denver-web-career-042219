@@ -1,5 +1,5 @@
 # Add  code here!
-def prime?(number)
+def prime?(n)
   if %n !=n
     true 
   else
