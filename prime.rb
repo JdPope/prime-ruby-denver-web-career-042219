@@ -7,4 +7,5 @@ def prime?(n)
   end 
   i-=1 
 end
-return true
+return true 
+end
