@@ -1,4 +1,8 @@
 # Add  code here!
 def prime?(number)
-  if 
+  if %n !=n
+    true 
+  else
+    false 
+  end
 end
