@@ -1,3 +1,4 @@
 
 def prime?(n)
- while n%(n-1)
+  i = n-1
+ while n%
