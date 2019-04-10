@@ -1,8 +1,3 @@
 
 def prime?(n)
-  if %n !=n
-    true 
-  else
-    false 
-  end
-end
+ while n%(n-1)
